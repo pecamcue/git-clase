@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciclo>
+    <modulo codigo="0123">
+        <nombre>LM</nombre>
+        <horas>100</horas>
+        <curso>1</curso>
+    </modulo>
+    <modulo codigo="0373">
+        <nombre>ED</nombre>
+        <horas>90</horas>
+        <curso>2</curso>
+    </modulo>
+    <modulo codigo="0123">
+        <nombre>PR</nombre>
+        <horas>170</horas>
+        <curso>1</curso>
+    </modulo>
+</ciclo>
+
+
+
+
+
+
+
+//modulo[@codigo="0373"].
+//modulo[curso=1].
+//modulo[@codigo="0373"]/horas
+//modulo[nombre="PR"]/horas
